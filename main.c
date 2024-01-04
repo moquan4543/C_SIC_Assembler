@@ -340,7 +340,7 @@ int main(int argc, char* argv[]) {
         return 0;
     }
 */
-    FILE *in,;
+    FILE *in;
     //打開文件，讀取模式
     in = fopen(".\\figure","r");
     //打開文件，寫入模式，若文件不存在就創建
